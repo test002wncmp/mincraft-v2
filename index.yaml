@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  minecraft:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2021-11-22T17:20:22.192465402+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 17e14fd9bbb7e5a487c066b780148fafb8c78ed8e9ff573afc788bd658fc8401
+    name: minecraft
+    type: application
+    urls:
+    - minecraft-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-22T17:20:22.190837225+05:30"
